@@ -1,0 +1,14 @@
+layout_spectrum: 0.4139814516529441
+typography_spectrum: 0.9214518419466913
+color:
+  brandStrength: 0.8168929181993008
+  lightness: 0.5867775157094002
+  saturation: 0.8092481654603034
+  rhythmicContrast: 0.6616067113354802
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: InteriorDesigningAD
